@@ -1,0 +1,1 @@
+Diese Webseite zeigt die Namen einiger Studenten, deren Informationen in einer Tabelle in der Datenbank gespeichert sind. Durch Auswählen eines Namens und Drücken der Schaltfläche „ok“ wird der Durchschnitt ihrer Noten angezeigt
